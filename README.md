@@ -4,8 +4,6 @@
 
 ## 文档地址
 
-https://king3soft.github.io
-
 ## 功能说明
 
 1. 集成SDK(https://github.com/king3soft/UAutoSDK)
